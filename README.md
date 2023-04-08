@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **hth4nh/hth4nh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 An amateur programmer.
-### My programming skill level:
+## My programming skill level:
  - C: 6.25/10
  - C++: 6.5/10
  - HTML/CSS: 5/10
