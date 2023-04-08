@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-An amateur programmer.
-## My programming skill level:
+# 👋 &nbsp; Hi there
+I'm Hth4nh, an amateur programmer.
+
+&nbsp;
+
+## 👨‍💻 &nbsp; My programming skill level:
  - C: 6.25/10
  - C++: 6.5/10
  - HTML/CSS: 5/10
