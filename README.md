@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+An amateur programmer.
+My programming skill level:
+ - C: 6.25/10
+ - C++: 6.5/10
+ - HTML/CSS: 5/10
+ - JavaScript: 6.75/10
+ - Perl: 4/10
+ - PHP: 6.5/10
+ - RegEx: 7/10
+ - C#: 3/10 (I hate C#)
