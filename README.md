@@ -25,4 +25,4 @@ I'm Hth4nh, an amateur programmer.
  - Perl: 4/10
  - PHP: 6.5/10
  - RegEx: 7/10
- - C#: 3/10 (I hate C#)
+ - C#: 2.5/10 (I hate C#)
