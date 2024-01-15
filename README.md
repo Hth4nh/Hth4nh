@@ -17,12 +17,12 @@ I'm Hth4nh, an amateur programmer.
 
 &nbsp;
 
-## 👨‍💻 &nbsp; My programming skill level:
+## 👨‍💻 &nbsp; My programming skill level (Update 15-1-2024):
  - C: 6.25/10
- - C++: 6.5/10
- - HTML/CSS: 5/10
+ - C++: 7.25/10
+ - HTML/CSS: 6/10
  - JavaScript: 6.75/10
- - Perl: 4/10
+ - Perl: 2/10
  - PHP: 6.5/10
  - RegEx: 7/10
  - C#: 2.5/10 (I hate C#)
