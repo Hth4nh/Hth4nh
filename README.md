@@ -27,4 +27,4 @@ I'm Hth4nh, an amateur programmer.
  - RegEx: 7/10
  - C#: 2.5/10 (I hate C#)
 
-https://github.com/Hth4nh/LeetCode-Solution/blob/3b78ebc312d845fc999fe6070c47750d15d6a0e7/src/cpp/576.cpp#L2
+https://github.com/Hth4nh/LeetCode-Solution/blob/3b78ebc312d845fc999fe6070c47750d15d6a0e7/src/cpp/576.cpp#L1-L108
