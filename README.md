@@ -17,7 +17,7 @@ I'm Hth4nh, an amateur programmer.
 
 &nbsp;
 
-## 👨‍💻 &nbsp; My programming skill level (Update 15-1-2024):
+## 👨‍💻 &nbsp; My programming skill level (Update 27-1-2024):
  - C: 6.25/10
  - C++: 7.25/10
  - HTML/CSS: 6/10
@@ -26,5 +26,4 @@ I'm Hth4nh, an amateur programmer.
  - PHP: 6.5/10
  - RegEx: 7/10
  - C#: 2.5/10 (I hate C#)
-
-https://github.com/Hth4nh/LeetCode-Solution/blob/3b78ebc312d845fc999fe6070c47750d15d6a0e7/src/cpp/576.cpp#L1-L108
+ - Java: 4/10
