@@ -17,7 +17,7 @@ I'm Hth4nh, an amateur programmer.
 
 &nbsp;
 
-## 👨‍💻 &nbsp; My programming skill level (Update 19-03-2024):
+## 👨‍💻 &nbsp; My programming skill level (Update 13-08-2024):
  - C: Good
  - C++: Better than C
  - HTML/CSS: Average
@@ -26,4 +26,4 @@ I'm Hth4nh, an amateur programmer.
  - PHP: Above average
  - RegEx: Good
  - C#: Bad (I hate C#)
- - Java: Below average
+ - Java: Average
